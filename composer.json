@@ -1,0 +1,29 @@
+{
+	"name": "qunabu/silvertripe-textfield-autocomplete",
+	"description": "Autocomplete text field for Silverstripe",
+	"type": "silverstripe-module",
+	"keywords": [
+		"silverstripe",
+		"autocomplete"
+	],
+	"authors": [
+		{
+			"name": "Qunabu",
+			"email": "m@qunabu.com",
+			"homepage": "http://qunabu.com",
+			"role": "Developer"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/qunabu/silvertripe-textfield-autocomplete"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/qunabu/silvertripe-textfield-autocomplete/issues"
+	},
+	"require": {
+		"silverstripe/framework": "~3.1"
+	}
+}
